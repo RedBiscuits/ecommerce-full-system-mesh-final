@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.env
+*.log
+.DS_Store
+# local runtime artifacts (hyperpay JSON DB default path, standalone PDF worker cache)
+db.json
+.file-cache/
